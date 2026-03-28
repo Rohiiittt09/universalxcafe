@@ -1,0 +1,189 @@
+[
+    {
+        "id": "m1",
+        "name": "dal fry",
+        "pricehalf": "220",
+        "pricefull": "300",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "300",
+        "image": "img/m1.webp"
+    },
+    {
+        "id": "m2",
+        "name": "dal tadka",
+        "pricehalf": "220",
+        "pricefull": "300",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "300",
+        "image": "img/m2.webp"
+    },
+    {
+        "id": "m3",
+        "name": "dal makhani",
+        "pricehalf": "240",
+        "pricefull": "330",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "330",
+        "image": "img/m3.webp"
+    },
+    {
+        "id": "m4",
+        "name": "mix veg",
+        "pricehalf": "250",
+        "pricefull": "360",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "360",
+        "image": "img/m4.webp"
+    },
+    {
+        "id": "m5",
+        "name": "matar paneer ",
+        "pricehalf": "250",
+        "pricefull": "350",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "350",
+        "image": "img/m5.webp"
+    },
+    {
+        "id": "m6",
+        "name": "kadai paneer",
+        "pricehalf": "260",
+        "pricefull": "360",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "360",
+        "image": "img/m6.webp"
+    },
+    {
+        "id": "m7",
+        "name": "shahi paneer",
+        "pricehalf": "250",
+        "pricefull": "350",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "350",
+        "image": "img/m7.webp"
+    },
+    {
+        "id": "m8",
+        "name": "paneer butter masala",
+        "pricehalf": "270",
+        "pricefull": "380",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "380",
+        "image": "img/m8.webp"
+    },
+    {
+        "id": "m9",
+        "name": "paneer lababdar",
+        "pricehalf": "250",
+        "pricefull": "350",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "350",
+        "image": "img/m9.webp"
+    },
+    {
+        "id": "m10",
+        "name": "paneer do pyaza",
+        "pricehalf": "260",
+        "pricefull": "360",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "360",
+        "image": "img/m10.webp"
+    },
+    {
+        "id": "m11",
+        "name": "paneer tikka masala",
+        "pricehalf": "280",
+        "pricefull": "380",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "380",
+        "image": "img/m11.webp"
+    },
+    {
+        "id": "m12",
+        "name": "paneer bhurji",
+        "pricehalf": "300",
+        "pricefull": "400",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "400",
+        "image": "img/m12.webp"
+    },
+    {
+        "id": "m13",
+        "name": "aloo jeera",
+        "pricehalf": "200",
+        "pricefull": "280",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "280",
+        "image": "img/m13.webp"
+    },
+    {
+        "id": "m14",
+        "name": "aloo matar",
+        "pricehalf": "200",
+        "pricefull": "270",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "270",
+        "image": "img/m14.webp"
+    },
+    {
+        "id": "m15",
+        "name": "aloo gobhi masala",
+        "pricehalf": "220",
+        "pricefull": "310",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "310",
+        "image": "img/m15.webp"
+    },
+    {
+        "id": "m16",
+        "name": "rajma",
+        "pricehalf": "220",
+        "pricefull": "290",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "290",
+        "image": "img/m16.webp"
+    },
+    {
+        "id": "m17",
+        "name": "chana masala",
+        "pricehalf": "220",
+        "pricefull": "290",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "290",
+        "image": "img/m17.webp"
+    }
+]

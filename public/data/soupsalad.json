@@ -1,0 +1,101 @@
+[
+    {
+        "id": "soup1",
+        "name": "tomato soup",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "100",
+        "image": "img/soup1.webp"
+    },
+    {
+        "id": "soup2",
+        "name": "vegetable soup",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "110",
+        "image": "img/soup2.webp"
+    },
+    {
+        "id": "soup3",
+        "name": "hot & sour vegetable soup",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "120",
+        "image": "img/soup3.webp"
+    },
+    {
+        "id": "soup4",
+        "name": "manchow soup",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "120",
+        "image": "img/soup4.webp"
+    },
+    {
+        "id": "soup5",
+        "name": "italian mushroom soup",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "140",
+        "image": "img/soup5.webp"
+    },
+    {
+        "id": "soup6",
+        "name": "sweet corn vegetable soup",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "130",
+        "image": "img/soup6.webp"
+    },
+    {
+        "id": "salad1",
+        "name": "green salad",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "100",
+        "image": "img/salad1.webp"
+    },
+    {
+        "id": "salad2",
+        "name": "onion salad",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "70",
+        "image": "img/salad2.webp"
+    },
+    {
+        "id": "salad3",
+        "name": "cucumber salad",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "80",
+        "image": "img/salad3.webp"
+    }
+]

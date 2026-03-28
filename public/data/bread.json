@@ -1,0 +1,189 @@
+[
+    {
+        "id": "br1",
+        "name": "rumali roti",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "30",
+        "image": "img/br1.webp"
+    },
+    {
+        "id": "br2",
+        "name": "tawa roti",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "20",
+        "image": "img/br2.webp"
+    },
+    {
+        "id": "br3",
+        "name": "plane roti (tandoori)",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "20",
+        "image": "img/br3.webp"
+    },
+    {
+        "id": "br4",
+        "name": "missi roti",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "40",
+        "image": "img/br4.webp"
+    },
+    {
+        "id": "br5",
+        "name": "missi roti with onion",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "50",
+        "image": "img/br5.webp"
+    },
+    {
+        "id": "br6",
+        "name": "lacha pratha",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "50",
+        "image": "img/br6.webp"
+    },
+    {
+        "id": "br7",
+        "name": "plain naan",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "40",
+        "image": "img/br7.webp"
+    },
+    {
+        "id": "br8",
+        "name": "butter naan",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "50",
+        "image": "img/br8.webp"
+    },
+    {
+        "id": "br9",
+        "name": "garlic naan",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "70",
+        "image": "img/br9.webp"
+    },
+    {
+        "id": "br10",
+        "name": "stuff naan",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "80",
+        "image": "img/br10.webp"
+    },
+    {
+        "id": "pr1",
+        "name": "tawa paratha",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "70",
+        "image": "img/pr1.webp"
+    },
+    {
+        "id": "pr2",
+        "name": "aloo paratha",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "80",
+        "image": "img/pr2.webp"
+    },
+    {
+        "id": "pr3",
+        "name": "onion paratha",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "90",
+        "image": "img/pr3.webp"
+    },
+    {
+        "id": "pr4",
+        "name": "aloo lug paratha",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "90",
+        "image": "img/pr4.webp"
+    },
+    {
+        "id": "pr5",
+        "name": "gobhi paratha",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "90",
+        "image": "img/pr5.webp"
+    },
+    {
+        "id": "pr6",
+        "name": "paneer paratha ",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "110",
+        "image": "img/pr6.webp"
+    },
+    {
+        "id": "pr7",
+        "name": "mix paratha",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "210",
+        "image": "img/pr7.webp"
+    }
+]

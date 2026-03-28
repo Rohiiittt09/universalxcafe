@@ -1,0 +1,189 @@
+[
+    {
+        "id": "pa1",
+        "name": "white sauce pasta",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "240",
+        "image": "img/pa1.webp"
+    },
+    {
+        "id": "pa2",
+        "name": "red saouce pasta",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "200",
+        "image": "img/pa2.webp"
+    },
+    {
+        "id": "pa3",
+        "name": "mix sause pasta",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "260",
+        "image": "img/pa3.webp"
+    },
+    {
+        "id": "pa4",
+        "name": "italian pasta",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "280",
+        "image": "img/pa4.webp"
+    },
+    {
+        "id": "pz1",
+        "name": "capsicum pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "80",
+        "pricemedium": "149",
+        "pricelarge": "299",
+        "price": "299",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz2",
+        "name": "onion pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "89",
+        "pricemedium": "149",
+        "pricelarge": "299",
+        "price": "299",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz3",
+        "name": "tomato pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "89",
+        "pricemedium": "149",
+        "pricelarge": "299",
+        "price": "299",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz4",
+        "name": "sweet corn pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "89",
+        "pricemedium": "149",
+        "pricelarge": "299",
+        "price": "299",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz5",
+        "name": "onion tomato pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "139",
+        "pricemedium": "239",
+        "pricelarge": "329",
+        "price": "329",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz6",
+        "name": "onion capsicum pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "109",
+        "pricemedium": "219",
+        "pricelarge": "329",
+        "price": "329",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz7",
+        "name": "only cheese pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "129",
+        "pricemedium": "259",
+        "pricelarge": "349",
+        "price": "349",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz8",
+        "name": "pari pari pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "129",
+        "pricemedium": "279",
+        "pricelarge": "399",
+        "price": "399",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz9",
+        "name": "mix veg pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "179",
+        "pricemedium": "239",
+        "pricelarge": "419",
+        "price": "419",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz10",
+        "name": "makhani pizza ",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "159",
+        "pricemedium": "279",
+        "pricelarge": "399",
+        "price": "399",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz11",
+        "name": "tandoori pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "169",
+        "pricemedium": "269",
+        "pricelarge": "349",
+        "price": "349",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz12",
+        "name": "chilli paneer  pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "159",
+        "pricemedium": "249",
+        "pricelarge": "329",
+        "price": "329",
+        "image": "img/pz1.webp"
+    },
+    {
+        "id": "pz13",
+        "name": "paneer tikka  pizza",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "149",
+        "pricemedium": "219",
+        "pricelarge": "299",
+        "price": "299",
+        "image": "img/pz1.webp"
+    }
+]

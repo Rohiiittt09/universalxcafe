@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+.fo{font-family: 'Playfair Display', serif;}
+.pfo{font-family: 'Roboto', sans-serif;}
+.act{
+    border-bottom:4px solid rgba(57, 14, 14, 0.904);
+    width: 40px;
+}
+.sco{scrollbar-width: none;}

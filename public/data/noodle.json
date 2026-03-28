@@ -1,0 +1,57 @@
+[
+    {
+        "id": "n1",
+        "name": "veg noodles",
+        "pricehalf": "80",
+        "pricefull": "120",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "120",
+        "image": "img/n1.webp"
+    },
+    {
+        "id": "n2",
+        "name": "singarpuri noodles",
+        "pricehalf": "130",
+        "pricefull": "190",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "190",
+        "image": "img/n2.webp"
+    },
+    {
+        "id": "n3",
+        "name": "chilli garlic noodles",
+        "pricehalf": "120",
+        "pricefull": "180",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "180",
+        "image": "img/n3.webp"
+    },
+    {
+        "id": "n4",
+        "name": "hakka noodles",
+        "pricehalf": "140",
+        "pricefull": "200",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "200",
+        "image": "img/n4.webp"
+    },
+    {
+        "id": "n5",
+        "name": "paneer noodles",
+        "pricehalf": "90",
+        "pricefull": "140",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "140",
+        "image": "img/n5.webp"
+    }
+]

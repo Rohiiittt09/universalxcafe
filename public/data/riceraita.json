@@ -1,0 +1,134 @@
+[
+    {
+        "id": "r1",
+        "name": "plain rice",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "120",
+        "image": "img/r1.webp"
+    },
+    {
+        "id": "r2",
+        "name": "jeera rice",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "140",
+        "image": "img/r2.webp"
+    },
+    {
+        "id": "r3",
+        "name": "veg pulao",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "180",
+        "image": "img/r3.webp"
+    },
+    {
+        "id": "r4",
+        "name": "veg biryani with raita",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "230",
+        "image": "img/r4.webp"
+    },
+    {
+        "id": "r5",
+        "name": "rajma rice",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "170",
+        "image": "img/r5.webp"
+    },
+    {
+        "id": "r6",
+        "name": "chhole rice",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "170",
+        "image": "img/r6.webp"
+    },
+    {
+        "id": "r7",
+        "name": "dal makhani rice",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "200",
+        "image": "img/r7.webp"
+    },
+    {
+        "id": "r8",
+        "name": "shahi paneer rice",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "200",
+        "image": "img/r8.webp"
+    },
+    {
+        "id": "ra1",
+        "name": "plain curd",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "80",
+        "image": "img/ra1.webp"
+    },
+    {
+        "id": "ra2",
+        "name": "boondi raita",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "100",
+        "image": "img/ra2.webp"
+    },
+    {
+        "id": "ra3",
+        "name": "mix veg raita",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "130",
+        "image": "img/ra3.webp"
+    },
+    {
+        "id": "ra4",
+        "name": "pineapple raita",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "150",
+        "image": "img/ra4.webp"
+    }
+]

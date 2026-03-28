@@ -1,0 +1,189 @@
+[
+    {
+        "id": "sn1",
+        "name": "french fries",
+        "pricehalf": "",
+        "pricefull": "100",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "100",
+        "image": "img/sn1.webp"
+    },
+    {
+        "id": "sn2",
+        "name": "peri peri fries",
+        "pricehalf": "",
+        "pricefull": "120",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "120",
+        "image": "img/sn2.webp"
+    },
+    {
+        "id": "sn3",
+        "name": "spiral potato",
+        "pricehalf": "",
+        "pricefull": "140",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "140",
+        "image": "img/sn3.webp"
+    },
+    {
+        "id": "sn4",
+        "name": "chilli potato",
+        "pricehalf": "90",
+        "pricefull": "150",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "150",
+        "image": "img/sn4.webp"
+    },
+    {
+        "id": "sn5",
+        "name": "honey chilli potato",
+        "pricehalf": "110",
+        "pricefull": "170",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "170",
+        "image": "img/sn5.webp"
+    },
+    {
+        "id": "sn6",
+        "name": "tandoori chilli potato",
+        "pricehalf": "110",
+        "pricefull": "170",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "170",
+        "image": "img/sn6.webp"
+    },
+    {
+        "id": "sn7",
+        "name": "chilli paneer dry",
+        "pricehalf": "150",
+        "pricefull": "220",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "220",
+        "image": "img/sn7.webp"
+    },
+    {
+        "id": "sn8",
+        "name": "chilli paneer gravy",
+        "pricehalf": "160",
+        "pricefull": "240",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "240",
+        "image": "img/sn8.webp"
+    },
+    {
+        "id": "sn9",
+        "name": "chilli mashroom dry",
+        "pricehalf": "160",
+        "pricefull": "240",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "240",
+        "image": "img/sn9.webp"
+    },
+    {
+        "id": "sn10",
+        "name": "chilli mashroom gravy",
+        "pricehalf": "170",
+        "pricefull": "250",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "250",
+        "image": "img/sn10.webp"
+    },
+    {
+        "id": "sn11",
+        "name": "manchurian dry",
+        "pricehalf": "130",
+        "pricefull": "170",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "170",
+        "image": "img/sn11.webp"
+    },
+    {
+        "id": "sn12",
+        "name": "manchurain gravy",
+        "pricehalf": "140",
+        "pricefull": "190",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "190",
+        "image": "img/sn12.webp"
+    },
+    {
+        "id": "sn13",
+        "name": "veg fried rice",
+        "pricehalf": "100",
+        "pricefull": "140",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "140",
+        "image": "img/sn13.webp"
+    },
+    {
+        "id": "sn14",
+        "name": "singapuri fried rice",
+        "pricehalf": "110",
+        "pricefull": "160",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "160",
+        "image": "img/sn14.webp"
+    },
+    {
+        "id": "sn15",
+        "name": "paneer fried rice ",
+        "pricehalf": "120",
+        "pricefull": "170",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "170",
+        "image": "img/sn15.webp"
+    },
+    {
+        "id": "sn16",
+        "name": "loaded fries",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "140",
+        "image": "img/sn16.webp"
+    },
+    {
+        "id": "sn17",
+        "name": "loaded nachos",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "160",
+        "image": "img/sn17.webp"
+    }
+]

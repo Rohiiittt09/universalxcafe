@@ -1,0 +1,35 @@
+[
+    {
+        "id": "thali1",
+        "name": "gravy chaap thali",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "220",
+        "image": "img/thali1.webp"
+    },
+    {
+        "id": "thali2",
+        "name": "royal thali",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "300",
+        "image": "img/thali2.webp"
+    },
+    {
+        "id": "thali3",
+        "name": "universal special thali",
+        "pricehalf": "",
+        "pricefull": "",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "380",
+        "image": "img/thali3.webp"
+    }
+]

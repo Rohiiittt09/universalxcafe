@@ -1,0 +1,134 @@
+[
+    {
+        "id": "chaap1",
+        "name": "malai chaap",
+        "pricehalf": "190",
+        "pricefull": "280",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "280",
+        "image": "img/chaap1.webp"
+    },
+    {
+        "id": "chaap2",
+        "name": "afgani chaap",
+        "pricehalf": "180",
+        "pricefull": "240",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "240",
+        "image": "img/chaap2.webp"
+    },
+    {
+        "id": "chaap3",
+        "name": "tandoori chaap",
+        "pricehalf": "180",
+        "pricefull": "240",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "240",
+        "image": "img/chaap3.webp"
+    },
+    {
+        "id": "chaap4",
+        "name": "haryali chaap",
+        "pricehalf": "180",
+        "pricefull": "240",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "240",
+        "image": "img/chaap4.webp"
+    },
+    {
+        "id": "chaap5",
+        "name": "lemon chaap",
+        "pricehalf": "180",
+        "pricefull": "240",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "240",
+        "image": "img/chaap5.webp"
+    },
+    {
+        "id": "chaap6",
+        "name": "masala chaap",
+        "pricehalf": "180",
+        "pricefull": "240",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "240",
+        "image": "img/chaap6.webp"
+    },
+    {
+        "id": "chaap7",
+        "name": "achari chaap",
+        "pricehalf": "180",
+        "pricefull": "240",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "240",
+        "image": "img/chaap7.webp"
+    },
+    {
+        "id": "chaap8",
+        "name": "gravy chaap",
+        "pricehalf": "250",
+        "pricefull": "360",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "360",
+        "image": "img/chaap8.webp"
+    },
+    {
+        "id": "chaap9",
+        "name": "kadai chaap",
+        "pricehalf": "260",
+        "pricefull": "370",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "370",
+        "image": "img/chaap9.webp"
+    },
+    {
+        "id": "paneer1",
+        "name": "paneer tikka",
+        "pricehalf": "190",
+        "pricefull": "280",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "280",
+        "image": "img/paneer1.webp"
+    },
+    {
+        "id": "paneer2",
+        "name": "paneer tikka achari",
+        "pricehalf": "200",
+        "pricefull": "290",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "290",
+        "image": "img/paneer2.webp"
+    },
+    {
+        "id": "paneer3",
+        "name": "paneer malai tikka",
+        "pricehalf": "210",
+        "pricefull": "300",
+        "pricesmall": "",
+        "pricemedium": "",
+        "pricelarge": "",
+        "price": "300",
+        "image": "img/paneer3.webp"
+    }
+]

@@ -46,7 +46,7 @@ const Fastfood = () => {
         <Category image={"img/pr1.webp"} Category={"breads & prathas"} jsn={"bread"}/>
         
       </div>
-      <div className=' min-h-screen pt-10 grid sm:grid-cols-3 bg-black/50  grid-cols-2 lg:grid-cols-4 place-items-center place-content-start gap-5'>
+      <div className=' pb-5 min-h-screen pt-10 grid sm:grid-cols-3 bg-black/50  grid-cols-2 lg:grid-cols-4 place-items-center place-content-start gap-5'>
      {allData.slice(0,visible).map((e)=>{
       return <Menucard  id={e.id}/>
      })}

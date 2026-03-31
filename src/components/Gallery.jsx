@@ -49,7 +49,7 @@ drop-shadow-[0_0_10px_rgba(255,215,0,0.8)]
      <img ref={chimg} className='sm:w-120 sm:h-120 w-60 h-60 ' src="img/gal1.webp" alt="" /></div>
       
      <div className='bg-black/50 pt-10'>
-        <div className='w-screen '><h1 className='lg:w-1/5 w-2/5 text-[22px]  lg:text-5xl fo italic   bg-black/75 items-center text-white shadow-[0_8px_20px_rgba(0,0,0,0.6),0_0_15px_rgba(255,215,0,0.4)] hover:shadow-[0_10px_30px_rgba(0,0,0,0.8),0_0_25px_rgba(255,215,0,0.7)] rounded-r-2xl transition-all duration-300'>Cafe View </h1></div>
+        <div className='w-screen '><h1 className='lg:w-1/5 pb-2 w-2/5 text-[22px]  lg:text-5xl fo italic   bg-black/75 items-center text-white shadow-[0_8px_20px_rgba(0,0,0,0.6),0_0_15px_rgba(255,215,0,0.4)] hover:shadow-[0_10px_30px_rgba(0,0,0,0.8),0_0_25px_rgba(255,215,0,0.7)] rounded-r-2xl transition-all duration-300'>Cafe View </h1></div>
       
         <div className=' w-screen flex justify-center items-center' >
       <div className=' grid-cols-3 grid lg:gap-5 gap-3 pt-5 pb-5  '>
@@ -82,7 +82,7 @@ drop-shadow-[0_0_10px_rgba(255,215,0,0.8)]
       </div>
       </div>
       </div>
-      <div className='w-screen '><h1 className='lg:w-1/5 w-2/5 text-[22px]  lg:text-5xl fo italic   bg-black/75 items-center text-white shadow-[0_8px_20px_rgba(0,0,0,0.6),0_0_15px_rgba(255,215,0,0.4)] hover:shadow-[0_10px_30px_rgba(0,0,0,0.8),0_0_25px_rgba(255,215,0,0.7)] rounded-r-2xl transition-all duration-300'>Hall View </h1></div>
+      <div className='w-screen '><h1 className='lg:w-1/5 w-2/5 text-[22px]  lg:text-5xl fo italic pb-2   bg-black/75 items-center text-white shadow-[0_8px_20px_rgba(0,0,0,0.6),0_0_15px_rgba(255,215,0,0.4)] hover:shadow-[0_10px_30px_rgba(0,0,0,0.8),0_0_25px_rgba(255,215,0,0.7)] rounded-r-2xl transition-all duration-300'>Hall View </h1></div>
       
         <div className=' w-screen flex justify-center items-center' >
       <div className=' grid-cols-3 grid lg:gap-5 gap-3 pt-5 pb-5  '>

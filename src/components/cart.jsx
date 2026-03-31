@@ -166,12 +166,12 @@ const Cart = () => {
             action=""
             onSubmit={handleSubmit(onsubmit)}
           >
-            <div className=" w-5/6 flex gap-1  sm:w-3/5 ">
+            <div className=" w-4/6 flex gap-1  sm:w-3/5 ">
               <h1 className="w-1/5 text-white text-[8px] sm:text-[16px] ">
                 Name :
               </h1>
               <input
-                className="border-2 border-white w-4/5 text-white text-[8px] sm:text-[16px] "
+                className="border-2 border-white bg-black/50 rounded-2xl sm:h-10 flex items-center h-5 w-4/5 text-white text-[8px] sm:text-[16px] "
                 placeholder=" enter your name"
                 type="text"
                 {...register("name", {
@@ -188,12 +188,12 @@ const Cart = () => {
                 {errors.name.message}
               </div>
             )}
-            <div className="flex w-5/6 gap-1  sm:w-3/5">
+            <div className="flex w-4/6 gap-1  sm:w-3/5">
               <h1 className="w-1/5 text-white text-[8px] sm:text-[16px]  ">
                 Phone No. :
               </h1>
               <input
-                className="border-2 border-white w-4/5 text-white text-[8px] sm:text-[16px]  "
+                className="border-2 border-white w-4/5 h-5 sm:h-10 bg-black/50 rounded-2xl flex items-center text-white text-[8px] sm:text-[16px]  "
                 placeholder="enter your phone number"
                 type="tel"
                 {...register("tel", {
@@ -214,12 +214,12 @@ const Cart = () => {
                 {errors.tel.message}
               </div>
             )}
-            <div className=" flex w-5/6 gap-1  sm:w-3/5 ">
+            <div className=" flex w-4/6 gap-1  sm:w-3/5 ">
               <h1 className="w-1/5 text-white text-[8px] sm:text-[16px] ">
                 address :
               </h1>
               <textarea
-                className="border-2 border-white w-4/5 text-white text-[8px] sm:text-[16px]  "
+                className="border-2 border-white bg-black/50 rounded-2xl flex items-center w-4/5 text-white text-[8px] sm:text-[16px]  "
                 placeholder="enter your address"
                 name=""
                 id=""

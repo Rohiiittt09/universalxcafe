@@ -118,7 +118,7 @@ const Contact = () => {
       </div>
       
       <Form />
-      <div className='w-screen mt-10'>
+      <div className='w-screen mt-10 pb-5'>
         <div className='w-3/5  sm:w-2/5'><h1 className='text-[16px] w-3/4 text-white bg-black/75 rounded-r-2xl lg:text-3xl lg:w-3/5'>Find Us</h1></div>
         <div className=' w-screen flex justify-center pt-10 '>
           <iframe className='w-4/5 lg:w-2/5 m-auto ' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16406.004995141262!2d76.95247505021544!3d28.63500633854213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0f004a22a693%3A0x80e9fd592e7cb529!2sUNIVERSAL%20CAFE!5e0!3m2!1sen!2sin!4v1774348381245!5m2!1sen!2sin" width="500" height="300" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

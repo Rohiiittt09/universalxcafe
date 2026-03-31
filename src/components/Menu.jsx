@@ -32,7 +32,7 @@ const Menu = () => {
     }, [])
   return (
     <div className=''>
-       <div className='bg-black/50 p-5 sco flex w-screen  overflow-x-scroll gap-3 sm:gap-10'>
+       <div className='bg-black/50 p-5 sco flex w-screen  overflow-x-scroll gap-3 sm:gap-10 '>
         <Category image={"img/chaap1.webp"} Category={"chaap"} jsn={"chaap"}/>
         <Category image={"img/burger1.webp"} Category={"fastfood"} jsn={"fasffod"}/>
         <Category image={"img/combo1.webp"} Category={"combo offer"} jsn={"combo"}/>
@@ -46,7 +46,7 @@ const Menu = () => {
         <Category image={"img/pr1.webp"} Category={"breads & prathas"} jsn={"bread"}/>
         
       </div>
-      <div className=' min-h-screen pt-10 grid sm:grid-cols-3 bg-black/50  grid-cols-2 lg:grid-cols-4 place-items-center place-content-start gap-5'>
+      <div className=' pb-5 min-h-screen pt-10 grid sm:grid-cols-3 bg-black/50  grid-cols-2 lg:grid-cols-4 place-items-center place-content-start gap-5'>
      {allData.slice(0,visible).map((e)=>{
       return <Menucard  id={e.id}/>
      })}

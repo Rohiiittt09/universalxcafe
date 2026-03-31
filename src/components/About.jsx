@@ -4,7 +4,7 @@ import Footer from './Footer'
 
 const About = () => {
   return (
-    <div className='w-screen pt-15'>
+    <div className='w-screen pt-15 mb-5'>
       <div className='w-screen flex flex-col sm:flex-row justify-center items-center gap-5 sm:gap-0 ' >
         <div className=' sm:w-2/5 w-screen flex justify-center '>
             <img className=' w-3/5 sm:w-4/6' src="/img/cafelogo.webp" loading='lazy' alt="" />

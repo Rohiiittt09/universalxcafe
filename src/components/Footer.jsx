@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 const Footer = () => {
   return (
-    <div className='w-full h-fit  border-black flex flex-col bg-[rgb(67,35,11)] '>
+    <div className='w-full pt-5 h-fit  border-black flex flex-col bg-[rgb(67,35,11)] '>
       <div className="   text-white flex flex-col sm:flex-row justify-center items-center">
       <div className="   w-1/5 flex justify-center items-center">
         <img className="" src="/img/cafelogo.webp" loading='lzy' alt="" />

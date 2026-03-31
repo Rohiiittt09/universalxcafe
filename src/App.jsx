@@ -103,7 +103,7 @@ function App() {
   ])
   return (
     <>
-    <CartProvider><div className=' bg-black/85 w-screen'>
+    <CartProvider><div className='  bg-black/85 w-screen'>
       <img src="" alt="" />
       <RouterProvider  router={route}/>
     </div></CartProvider>

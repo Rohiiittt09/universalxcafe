@@ -21,6 +21,7 @@ const Cart = () => {
     msg+=`\n\n total payment = ${cost}`
     const url = `https://wa.me/9034958645?text=${encodeURIComponent(msg)}`;
     setCart([])
+    localStorage.removeItem("cart")
     window.open(url);
 
   };

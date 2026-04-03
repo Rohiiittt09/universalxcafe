@@ -47,7 +47,7 @@ const Itemcard = ({allData}) => {
             return (<div className='sm:flex-row  w-screen flex flex-col justify-around items-center' key={e.id}>
                 <div className='p-5 border-2 rounded-2xl bg-black/50 sm:w-fit w-4/5 border-yellow-400 '><img className='sm:70 sm:h-60 lg:w-100 rounded-2xl lg:h-90 w-full '  src={`/${e.image}`} alt="" /></div>
 
-                <div className='sm:w-70 sm:h-full  border-yellow-400 lg:w-1/3 border-2 bg-black/50 rounded-2xl h-70 lg:h-full p-5 flex flex-col w-4/5 mt-5 sm:mt-0 '>
+                <div className='sm:w-70  border-yellow-400 lg:w-1/3 border-2 bg-black/50 rounded-2xl h-fit lg:h-full p-5 flex flex-col w-4/5 mt-5 sm:mt-0 '>
 
                     <div className=' w-full   p-5 flex justify-between '>
                     <h1 className=' text-[20px]   lg:text-4xl italic text-white underline'>{e.name}</h1>
@@ -58,7 +58,40 @@ const Itemcard = ({allData}) => {
                         if(e.pricehalf==""&&e.pricefull==""&&e.pricemedium==""&&e.pricesmall==""&&e.pricelarge==""){
                             return <div className=' w-full flex justify-center'><button className='cursor-pointer  w-30 h-8 sm:w-40 sm:h-9 lg:w-50 lg:h-10 hover:bg-white hover:text-[rgb(67,35,11)] border   bg-black/50 text-[12px] sm:text-[18px] text-white rounded-2xl' onClick={(x)=>{sendata(e.price,"",e.name,e.id+"no",x)}}>Add</button></div>
                         }else{
-                            return (
+                            if(e.pricemedium&&e.pricemedium&&e.pricelarge){
+                                return (
+                                <div>
+                                    <div  className='flex   w-full justify-between text-white'><h3>half : Rs{parseInt(e.pricehalf)}</h3>{e.pricehalf !== "" && <button className='cursor-pointer  w-16 h-4 sm:w-20 sm:h-7  lg:w-40 lg:h-10 hover:bg-white hover:text-[rgb(67,35,11)] border  text-white bg-[rgb(67,35,11)] text-[12px] sm:text-[18px] rounded-2xl' onClick={(x)=>{sendata(e.pricehalf,"half",e.name,e.id+"h",x)}}>Add</button>}</div>
+                    <div className='flex  w-full justify-between text-white'><h3>full : Rs{parseInt(e.pricefull)}</h3>{e.pricefull !== "" && <button className='cursor-pointer  w-16 h-4 sm:w-20 sm:h-7 lg:w-40 lg:h-10 hover:bg-white hover:text-[rgb(67,35,11)] border  text-white bg-[rgb(67,35,11)] text-[12px] sm:text-[18px] rounded-2xl' onClick={(x)=>{sendata(e.pricefull,"full",e.name,e.id+"f",x)
+                    }} >Add</button>}</div>
+                    <div className='flex  w-full justify-between text-white'><h3>medium : Rs{parseInt(e.pricemedium)}</h3>{e.pricemedium !== "" && <button className='cursor-pointer  w-16 h-4 sm:w-20 sm:h-7 lg:w-40 lg:h-10 hover:bg-white hover:text-[rgb(67,35,11)] border  text-white bg-[rgb(67,35,11)] text-[12px] sm:text-[18px] rounded-2xl' onClick={(x)=>{sendata(e.pricemedium,"medium",e.name,e.id+"m",x)
+                    }} >Add</button>}</div>
+                    <div className='flex  w-full justify-between text-white'><h3>small : Rs{parseInt(e.pricesmall)}</h3>{e.pricesmall !== "" && <button className='cursor-pointer  w-16 h-4 sm:w-20 sm:h-7 lg:w-40 lg:h-10 hover:bg-white hover:text-[rgb(67,35,11)] border  text-white bg-[rgb(67,35,11)] text-[12px] sm:text-[18px] rounded-2xl' onClick={(x)=>{sendata(e.pricesmall,"small",e.name,e.id+"s",x)
+                    }} >Add</button>}</div>
+                    <div className='flex  w-full justify-between text-white '><h3>large : Rs{parseInt(e.pricelarge)}</h3>{e.pricelarge !== "" && <button className='cursor-pointer  w-16 h-4 sm:w-20 sm:h-7 lg:w-40 lg:h-10 hover:bg-white hover:text-[rgb(67,35,11)] border  text-white bg-[rgb(67,35,11)] text-[12px] sm:text-[18px] rounded-2xl' onClick={(x)=>{sendata(e.pricelarge,"large",e.name,e.id+"l",x)
+                    }}>Add</button>}</div>
+                    <div className=' text-[8px] mt-5 cursor-pointer lg:text-[16px] '><h3>extra toping cheese:</h3>
+                    <div className=' w-full flex justify-between'>
+                        <h4 onClick={()=>{alert("Please message us for toppings after submitting your order.")}}>small Rs30</h4>
+                    <h4 onClick={()=>{alert("Please message us for toppings after submitting your order.")}}>medium Rs60</h4>
+                    <h4 onClick={()=>{alert("Please message us for toppings after submitting your order.")}}
+                        >large Rs90</h4>
+                    </div>
+                    
+                    </div>
+                    <div  className='text-[8px] cursor-pointer   lg:text-[16px] '><h3>extra toping veg:</h3>
+                    <div className=' w-full flex justify-between'>
+                        <h4 onClick={()=>{alert("Please message us for toppings after submitting your order.")}}>small Rs20</h4>
+                    <h4 onClick={()=>{alert("Please message us for toppings after submitting your order.")}}>medium Rs40</h4>
+                    <h4 onClick={()=>{alert("Please message us for toppings after submitting your order.")}}>large Rs60</h4>
+                    </div>
+                    
+                    </div>
+                                </div>
+                                
+                            )
+                            }else{
+                                return (
                                 <div>
                                     <div className='flex  w-full justify-between text-white'><h3>half : Rs{parseInt(e.pricehalf)}</h3>{e.pricehalf !== "" && <button className='cursor-pointer  w-16 h-4 sm:w-20 sm:h-7  lg:w-40 lg:h-10 hover:bg-white hover:text-[rgb(67,35,11)] border  text-white bg-[rgb(67,35,11)] text-[12px] sm:text-[18px] rounded-2xl' onClick={(x)=>{sendata(e.pricehalf,"half",e.name,e.id+"h",x)}}>Add</button>}</div>
                     <div className='flex  w-full justify-between text-white'><h3>full : Rs{parseInt(e.pricefull)}</h3>{e.pricefull !== "" && <button className='cursor-pointer  w-16 h-4 sm:w-20 sm:h-7 lg:w-40 lg:h-10 hover:bg-white hover:text-[rgb(67,35,11)] border  text-white bg-[rgb(67,35,11)] text-[12px] sm:text-[18px] rounded-2xl' onClick={(x)=>{sendata(e.pricefull,"full",e.name,e.id+"f",x)
@@ -71,6 +104,7 @@ const Itemcard = ({allData}) => {
                     }}>Add</button>}</div>
                                 </div>
                             )
+                            }
                         }
                     })()
                     }

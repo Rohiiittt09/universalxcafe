@@ -81,7 +81,7 @@ const Cart = () => {
   };
   if (cart.length == 0) {
     return (
-      <div className="w-screen  h-screen flex flex-col border ">
+      <div className="w-screen  min-h-screen max-h-fit flex flex-col border ">
         <div className=" w-3/5  m-auto flex flex-col justify-center items-center ">
           <h1 className="text-[16px] sm:text-2xl italic text-white pfo">
             Your cart is empty Looks like you haven’t added anything yet.
@@ -102,7 +102,7 @@ const Cart = () => {
     );
   }
   return (
-    <div className="  w-screen h-screen   flex flex-col  sm:gap-5 ">
+    <div className="  w-screen min-h-screen   flex flex-col  sm:gap-5 ">
       <div className="mt-20 gap-2  flex flex-col ga sm:gap-2 ">
         {cart.map((e) => {
           return (
